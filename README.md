@@ -1,4 +1,4 @@
-# TCPclientserver
+TCP Client Server
 
 This program implements a simple client server program in java to get two inputs from the client and outputs their sum. The program consisits of two scripts as
 1)Client.java
